@@ -4,7 +4,7 @@ This is the beginning of my personal software portfolio as a developer. The proj
 
 My purpose for this project is to establish a clean and professional workflow using GitHub, Node.js, and TypeScript.
 
-[Software Demo Video](https://www.youtube.com/watch?v=your-video-link)
+[Software Demo Video](https://www.youtube.com/watch?v=vmenBL9aMwM)
 
 ## Development Environment
 
